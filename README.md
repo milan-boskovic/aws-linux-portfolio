@@ -16,3 +16,9 @@ Collection of Linux and AWS infrastructure scripts built during hands-on trainin
 
 ## Certification
 - AWS Certified Cloud Practitioner (CLF-C02)
+
+## Weekly notes
+- [Week 1 - Linux Fundamentals](notes/week1.md)
+- [Week 2 - Linux Intermediate](notes/week2.md)
+- [Week 3 - Linux Advanced](notes/week3.md)
+- [Week 4 - AWS IAM](notes/week4.md)
